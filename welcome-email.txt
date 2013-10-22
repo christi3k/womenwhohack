@@ -5,12 +5,11 @@ Hi NAME,
 I've just approved your request to join the Women Who Hack list. In this 
 email I'm including important information about the group.
 
-Our next meeting is this Sunday, 9/1 from Noon-5pm:
-http://calagator.org/events/1250464783
+Our next meeting is Sunday, DATE from 1 PM - 5 PM:
+http://calagator.org/events/search?query=women+who+hack&utf8=%E2%9C%93
 
 Note: External building doors will be locked, so you'll have to 
-call/text me to get in: 415-317-7603. I will also check for people at 
-Noon, 12:30 and 1pm.
+call/text Christie to get in: 415-317-7603.
 
 Our goal is to support local women hackers (and aspiring hackers) by 
 providing a safe, welcoming environment in which they can connect with 
@@ -24,7 +23,7 @@ online and in person.
 Google Group:
 https://groups.google.com/group/women-who-hack?hl=en
 
-Website (not always up to date; helpers welcome):
+Website:
 http://womenwhohack.org/
 
 IRC Info:
