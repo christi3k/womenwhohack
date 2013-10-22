@@ -1,12 +1,12 @@
-SUBJECT: MEETING Sunday, DATE, Noon-12pm @ LOCATION
+SUBJECT: MEETING Sunday, DATE, 1 PM - 5 PM @ LOCATION
 
-Our next meeting is Sunday, DATE, from Noon-12pm at LOCATION.
+Our next meeting is Sunday, DATE, from 1 PM - 5 PM at LOCATION.
 
 *************
 WHERE & WHEN
 *************
 
-When: SUNDAY, DATE from Noon-5pm
+When: SUNDAY, DATE from 1 PM - 5 PM
 Where: Mozilla Portland, 1120 NW Couch St., Suite 320, 97209
 
 Event details with venue map:
@@ -19,7 +19,7 @@ AGENDA
 3. Announcements
 4. Hacking!
 
-Building doors will be locked, so you'll have to call/text me to get in: 415-317-7603. I will also check at Noon, 12:30 and 1pm.
+Building doors will be locked, so you'll have to call/text me to get in: 415-317-7603.
 
 We'll order pizza from Sizzle Pie if folks are interested.
 
